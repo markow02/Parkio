@@ -29,6 +29,10 @@
         private void InitializeComponent()
         {
             label1 = new Label();
+            dataGridViewPlace = new DataGridView();
+            numer = new DataGridViewTextBoxColumn();
+            dostepnosc = new DataGridViewTextBoxColumn();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewPlace).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -41,17 +45,41 @@
             label1.TabIndex = 0;
             label1.Text = "Zajętość miejsc";
             // 
+            // dataGridViewPlace
+            // 
+            dataGridViewPlace.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewPlace.Columns.AddRange(new DataGridViewColumn[] { numer, dostepnosc });
+            dataGridViewPlace.Location = new Point(43, 136);
+            dataGridViewPlace.Name = "dataGridViewPlace";
+            dataGridViewPlace.RowTemplate.Height = 25;
+            dataGridViewPlace.Size = new Size(992, 463);
+            dataGridViewPlace.TabIndex = 1;
+            // 
+            // numer
+            // 
+            numer.DataPropertyName = "numer";
+            numer.HeaderText = "Numer miejsca";
+            numer.Name = "numer";
+            // 
+            // dostepnosc
+            // 
+            dostepnosc.DataPropertyName = "dostepnosc";
+            dostepnosc.HeaderText = "Dostępność";
+            dostepnosc.Name = "dostepnosc";
+            // 
             // Status
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Gray;
             ClientSize = new Size(1122, 729);
+            Controls.Add(dataGridViewPlace);
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.None;
             Name = "Status";
             Text = "Status";
             Load += Status_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridViewPlace).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -59,5 +87,8 @@
         #endregion
 
         private Label label1;
+        private DataGridView dataGridViewPlace;
+        private DataGridViewTextBoxColumn numer;
+        private DataGridViewTextBoxColumn dostepnosc;
     }
 }

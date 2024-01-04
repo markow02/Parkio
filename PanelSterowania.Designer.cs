@@ -35,7 +35,7 @@
             // button1
             // 
             button1.Font = new Font("Calibri", 9F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(93, 61);
+            button1.Location = new Point(42, 44);
             button1.Name = "button1";
             button1.Size = new Size(125, 60);
             button1.TabIndex = 0;
@@ -46,7 +46,7 @@
             // button2
             // 
             button2.Font = new Font("Calibri", 9F, FontStyle.Regular, GraphicsUnit.Point);
-            button2.Location = new Point(93, 127);
+            button2.Location = new Point(42, 110);
             button2.Name = "button2";
             button2.Size = new Size(125, 55);
             button2.TabIndex = 1;

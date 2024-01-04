@@ -34,7 +34,7 @@ namespace SystemParkingowy
             }
             else
             {
-                MessageBox.Show("Nieprawidłowa nazwa użytkownika lub hasło");
+                MessageBox.Show("Nieprawidłowa nazwa użytkownika lub hasło chuj chuj ");
             }
         }
 

@@ -1,11 +1,30 @@
 using System;
+using System.Data;
 using System.Drawing;
 using System.Windows.Forms;
+using MySql.Data.MySqlClient;    
 
 namespace SystemParkingowy
 {
     public partial class Menu : Form
     {
+        Bitmap bitmap;
+
+/*        MySqlConnection sqlConn = new MySqlConnection();
+        MySqlCommand sqlCmd = new MySqlCommand();
+        DataTable sqlDt = new DataTable();
+        String sqlQuery;
+        MySqlDataAdapter DtA = new MySqlDataAdapter();
+        MySqlDataReader sqlRd;
+        DataSet DS = new DataSet();
+
+        String server = "mysql-parking-systemparkingowy.a.aivencloud.com";
+        String username = "avnadmin";
+        String password = "AVNS_zolYLfA9eq4RPl2PH7Y";
+        String database = "parking";*/
+
+
+
         private Button? currentButton; // Zmienna do œledzenia bie¿¹cego przycisku
 
 
@@ -136,6 +155,9 @@ namespace SystemParkingowy
             hideSubMenu();
         }
 
-      
+        private void panelChildForm_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MySql.Data.MySqlClient;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,7 +20,31 @@ namespace SystemParkingowy
 
         private void Status_Load(object sender, EventArgs e)
         {
+            var database = new Database();
 
+            if (database.connect_db())
+            {
+                string query = "SELECT * FROM miejsce";
+
+                MySqlCommand mySqlCommand = new MySqlCommand(query);
+                mySqlCommand.Connection = database.mySqlConection;
+                MySqlDataAdapter adapter = new MySqlDataAdapter();
+                adapter.SelectCommand = mySqlCommand;
+                DataTable dt = new DataTable();
+                adapter.Fill(dt);
+                BindingSource bindingSource = new BindingSource();
+                dataGridViewPlace.AutoGenerateColumns = false;
+                bindingSource.DataSource = dt;
+                dataGridViewPlace.DataSource = bindingSource;
+
+                database.close_db();
+
+
+            }
+            else
+            {
+                MessageBox.Show("Database error");
+            }
         }
     }
 }

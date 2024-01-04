@@ -68,7 +68,7 @@
             panel1.Dock = DockStyle.Left;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(228, 768);
+            panel1.Size = new Size(228, 749);
             panel1.TabIndex = 0;
             // 
             // logiSub
@@ -203,7 +203,7 @@
             btnWyloguj.FlatStyle = FlatStyle.Flat;
             btnWyloguj.Font = new Font("Calibri", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
             btnWyloguj.ForeColor = SystemColors.ControlLightLight;
-            btnWyloguj.Location = new Point(0, 730);
+            btnWyloguj.Location = new Point(0, 711);
             btnWyloguj.Name = "btnWyloguj";
             btnWyloguj.Size = new Size(228, 38);
             btnWyloguj.TabIndex = 18;
@@ -234,11 +234,11 @@
             // 
             godzina.AutoSize = true;
             godzina.Dock = DockStyle.Top;
-            godzina.Font = new Font("Lucida Bright", 36F, FontStyle.Bold, GraphicsUnit.Point);
+            godzina.Font = new Font("Microsoft Sans Serif", 36F, FontStyle.Bold, GraphicsUnit.Point);
             godzina.ForeColor = SystemColors.ControlLightLight;
             godzina.Location = new Point(0, 134);
             godzina.Name = "godzina";
-            godzina.Size = new Size(136, 54);
+            godzina.Size = new Size(138, 55);
             godzina.TabIndex = 12;
             godzina.Text = "Czas";
             // 
@@ -284,14 +284,15 @@
             panelChildForm.Dock = DockStyle.Fill;
             panelChildForm.Location = new Point(228, 0);
             panelChildForm.Name = "panelChildForm";
-            panelChildForm.Size = new Size(1138, 768);
+            panelChildForm.Size = new Size(1138, 749);
             panelChildForm.TabIndex = 1;
+            panelChildForm.Paint += panelChildForm_Paint;
             // 
             // Menu
             // 
             AutoScaleDimensions = new SizeF(9F, 21F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1366, 768);
+            ClientSize = new Size(1366, 749);
             Controls.Add(panelChildForm);
             Controls.Add(panel1);
             Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);

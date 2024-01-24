@@ -31,7 +31,7 @@
             label1 = new Label();
             dataGridViewPlace = new DataGridView();
             numer = new DataGridViewTextBoxColumn();
-            dostepnosc = new DataGridViewTextBoxColumn();
+            wolnosc = new DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)dataGridViewPlace).BeginInit();
             SuspendLayout();
             // 
@@ -48,11 +48,11 @@
             // dataGridViewPlace
             // 
             dataGridViewPlace.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewPlace.Columns.AddRange(new DataGridViewColumn[] { numer, dostepnosc });
-            dataGridViewPlace.Location = new Point(43, 136);
+            dataGridViewPlace.Columns.AddRange(new DataGridViewColumn[] { numer, wolnosc });
+            dataGridViewPlace.Location = new Point(12, 272);
             dataGridViewPlace.Name = "dataGridViewPlace";
             dataGridViewPlace.RowTemplate.Height = 25;
-            dataGridViewPlace.Size = new Size(992, 463);
+            dataGridViewPlace.Size = new Size(1108, 346);
             dataGridViewPlace.TabIndex = 1;
             // 
             // numer
@@ -61,11 +61,12 @@
             numer.HeaderText = "Numer miejsca";
             numer.Name = "numer";
             // 
-            // dostepnosc
+            // wolnosc
             // 
-            dostepnosc.DataPropertyName = "dostepnosc";
-            dostepnosc.HeaderText = "Dostępność";
-            dostepnosc.Name = "dostepnosc";
+            wolnosc.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            wolnosc.DataPropertyName = "wolnosc";
+            wolnosc.HeaderText = "Dostępność";
+            wolnosc.Name = "wolnosc";
             // 
             // Status
             // 
@@ -90,5 +91,6 @@
         private DataGridView dataGridViewPlace;
         private DataGridViewTextBoxColumn numer;
         private DataGridViewTextBoxColumn dostepnosc;
+        private DataGridViewTextBoxColumn wolnosc;
     }
 }

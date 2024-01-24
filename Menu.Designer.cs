@@ -234,11 +234,11 @@
             // 
             godzina.AutoSize = true;
             godzina.Dock = DockStyle.Top;
-            godzina.Font = new Font("Microsoft Sans Serif", 36F, FontStyle.Bold, GraphicsUnit.Point);
+            godzina.Font = new Font("Lucida Bright", 36F, FontStyle.Bold, GraphicsUnit.Point);
             godzina.ForeColor = SystemColors.ControlLightLight;
             godzina.Location = new Point(0, 134);
             godzina.Name = "godzina";
-            godzina.Size = new Size(138, 55);
+            godzina.Size = new Size(136, 54);
             godzina.TabIndex = 12;
             godzina.Text = "Czas";
             // 
@@ -286,7 +286,6 @@
             panelChildForm.Name = "panelChildForm";
             panelChildForm.Size = new Size(1138, 749);
             panelChildForm.TabIndex = 1;
-            panelChildForm.Paint += panelChildForm_Paint;
             // 
             // Menu
             // 
@@ -296,11 +295,13 @@
             Controls.Add(panelChildForm);
             Controls.Add(panel1);
             Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(4);
             Name = "Menu";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Parkio";
+            WindowState = FormWindowState.Maximized;
             Load += Form1_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();

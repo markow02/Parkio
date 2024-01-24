@@ -1,0 +1,144 @@
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\bin\Debug\net7.0-windows\SystemParkingowy.exe
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\bin\Debug\net7.0-windows\SystemParkingowy.deps.json
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\bin\Debug\net7.0-windows\SystemParkingowy.runtimeconfig.json
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\bin\Debug\net7.0-windows\SystemParkingowy.dll
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\bin\Debug\net7.0-windows\SystemParkingowy.pdb
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.Properties.Resources.resources
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.csproj.GenerateResource.cache
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.AssemblyInfoInputs.cache
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.AssemblyInfo.cs
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.dll
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\refint\SystemParkingowy.dll
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.pdb
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.genruntimeconfig.cache
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\ref\SystemParkingowy.dll
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.Menu.resources
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.Status.resources
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.PanelSterowania.resources
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.Klienci.resources
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.Login.resources
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.Wjazdy.resources
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.Wyjazdy.resources
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.DodajSamochod.resources
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.DodajKlienta.resources
+C:\Users\Marcel\Documents\WSB\programowanie\SystemParkingowy\obj\Debug\net7.0-windows\SystemParkingowy.Monitoring.resources
+C:\Users\mkocik\Desktop\Projekt System Parkingowy\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.dll
+C:\Users\mkocik\Desktop\Projekt System Parkingowy\System parkingowy kod\obj\Debug\net7.0-windows\refint\SystemParkingowy.dll
+C:\Users\mkocik\Desktop\Projekt System Parkingowy\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.pdb
+C:\Users\mkocik\Desktop\Projekt System Parkingowy\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.csproj.AssemblyReference.cache
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.csproj.AssemblyReference.cache
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.dll
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\refint\SystemParkingowy.dll
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.pdb
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\SystemParkingowy.exe
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\SystemParkingowy.deps.json
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\SystemParkingowy.runtimeconfig.json
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\SystemParkingowy.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\SystemParkingowy.pdb
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\ZstdSharp.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.DodajKlienta.resources
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.DodajSamochod.resources
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Klienci.resources
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Login.resources
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Menu.resources
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Monitoring.resources
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.PanelSterowania.resources
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Properties.Resources.resources
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Status.resources
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Wjazdy.resources
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Wyjazdy.resources
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.csproj.GenerateResource.cache
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.AssemblyInfoInputs.cache
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.AssemblyInfo.cs
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.csproj.CoreCompileInputs.cache
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.csproj.CopyComplete
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.genruntimeconfig.cache
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Debug\net7.0-windows\ref\SystemParkingowy.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\Antlr3.Runtime.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\Iesi.Collections.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\NHibernate.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\Remotion.Linq.dll
+C:\Users\kozii\Desktop\System parkingowy kod\bin\Debug\net7.0-windows\Remotion.Linq.EagerFetching.dll
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.csproj.AssemblyReference.cache
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.dll
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\refint\SystemParkingowy.dll
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.pdb
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\bin\Debug\net7.0-windows\SystemParkingowy.exe
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\bin\Debug\net7.0-windows\SystemParkingowy.deps.json
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\bin\Debug\net7.0-windows\SystemParkingowy.runtimeconfig.json
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\bin\Debug\net7.0-windows\SystemParkingowy.dll
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\bin\Debug\net7.0-windows\SystemParkingowy.pdb
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\bin\Debug\net7.0-windows\Antlr3.Runtime.dll
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\bin\Debug\net7.0-windows\Iesi.Collections.dll
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\bin\Debug\net7.0-windows\NHibernate.dll
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\bin\Debug\net7.0-windows\Remotion.Linq.dll
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\bin\Debug\net7.0-windows\Remotion.Linq.EagerFetching.dll
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Klienci.resources
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Login.resources
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Menu.resources
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Monitoring.resources
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.PanelSterowania.resources
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Properties.Resources.resources
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Status.resources
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Wjazdy.resources
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Wyjazdy.resources
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.csproj.GenerateResource.cache
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.AssemblyInfoInputs.cache
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.AssemblyInfo.cs
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.csproj.CopyComplete
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.genruntimeconfig.cache
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\ref\SystemParkingowy.dll
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Bilet.resources
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\obj\Debug\net7.0-windows\SystemParkingowy.Paragon.resources
+C:\Users\Marcel\Downloads\System_parkingowy_kod_3\System parkingowy kod\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Marcel\Downloads\SystemParkingowy2401\bin\Debug\net7.0-windows\SystemParkingowy.exe
+C:\Users\Marcel\Downloads\SystemParkingowy2401\bin\Debug\net7.0-windows\SystemParkingowy.deps.json
+C:\Users\Marcel\Downloads\SystemParkingowy2401\bin\Debug\net7.0-windows\SystemParkingowy.runtimeconfig.json
+C:\Users\Marcel\Downloads\SystemParkingowy2401\bin\Debug\net7.0-windows\SystemParkingowy.dll
+C:\Users\Marcel\Downloads\SystemParkingowy2401\bin\Debug\net7.0-windows\SystemParkingowy.pdb
+C:\Users\Marcel\Downloads\SystemParkingowy2401\bin\Debug\net7.0-windows\Antlr3.Runtime.dll
+C:\Users\Marcel\Downloads\SystemParkingowy2401\bin\Debug\net7.0-windows\Iesi.Collections.dll
+C:\Users\Marcel\Downloads\SystemParkingowy2401\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Marcel\Downloads\SystemParkingowy2401\bin\Debug\net7.0-windows\NHibernate.dll
+C:\Users\Marcel\Downloads\SystemParkingowy2401\bin\Debug\net7.0-windows\Remotion.Linq.dll
+C:\Users\Marcel\Downloads\SystemParkingowy2401\bin\Debug\net7.0-windows\Remotion.Linq.EagerFetching.dll
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.csproj.AssemblyReference.cache
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.Bilet.resources
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.Klienci.resources
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.Login.resources
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.Menu.resources
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.Monitoring.resources
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.PanelSterowania.resources
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.Paragon.resources
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.Properties.Resources.resources
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.Status.resources
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.Wjazdy.resources
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.Wyjazdy.resources
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.csproj.GenerateResource.cache
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.AssemblyInfoInputs.cache
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.AssemblyInfo.cs
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.csproj.CopyComplete
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.dll
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\refint\SystemParkingowy.dll
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.pdb
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\SystemParkingowy.genruntimeconfig.cache
+C:\Users\Marcel\Downloads\SystemParkingowy2401\obj\Debug\net7.0-windows\ref\SystemParkingowy.dll

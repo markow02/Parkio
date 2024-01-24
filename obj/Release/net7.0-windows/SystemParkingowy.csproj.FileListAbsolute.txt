@@ -1,0 +1,1 @@
+C:\Users\kozii\Desktop\System parkingowy kod\obj\Release\net7.0-windows\SystemParkingowy.csproj.AssemblyReference.cache

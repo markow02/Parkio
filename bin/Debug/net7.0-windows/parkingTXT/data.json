@@ -1,0 +1,44 @@
+{
+  "Osobowe": [
+    "Os01"
+  ],
+  "Ciezarowe": [],
+  "Pojazdy": [
+    {
+      "Marka": "123",
+      "Rodzaj": "osobowy",
+      "NrRej": "123",
+      "DataWjazdu": "2024-01-24",
+      "Miejsce": "Os01",
+      "GodzinaWjazdu": "15:30",
+      "CzasPostoju": "0h 7min",
+      "GodzinaWyjazdu": "15:37",
+      "Zaplata": "5,00 zł",
+      "Status": "Wyjechał"
+    },
+    {
+      "Marka": "123",
+      "Rodzaj": "osobowy",
+      "NrRej": "123",
+      "DataWjazdu": "2024-01-24",
+      "Miejsce": "Os01",
+      "GodzinaWjazdu": "15:31",
+      "CzasPostoju": "Brak danych",
+      "GodzinaWyjazdu": "Brak danych",
+      "Zaplata": "Brak danych",
+      "Status": "Zaparkowany"
+    },
+    {
+      "Marka": "123",
+      "Rodzaj": "osobowy",
+      "NrRej": "124",
+      "DataWjazdu": "2024-01-24",
+      "Miejsce": "Os02",
+      "GodzinaWjazdu": "15:31",
+      "CzasPostoju": "0h 1min",
+      "GodzinaWyjazdu": "15:32",
+      "Zaplata": "5,00 zł",
+      "Status": "Wyjechał"
+    }
+  ]
+}

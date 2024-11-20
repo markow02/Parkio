@@ -1,0 +1,40 @@
+{
+  "Wpis": [
+    {
+      "Marka": "Abarth",
+      "Rodzaj": "osobowy",
+      "Miejsce": "Os01",
+      "NrRej": "WW2180N",
+      "Data": "2024-02-09",
+      "Godzina": "18:32",
+      "Zdarzenie": "Wjazd"
+    },
+    {
+      "Marka": "Bugatti",
+      "Rodzaj": "osobowy",
+      "Miejsce": "Os02",
+      "NrRej": "WW971WY",
+      "Data": "2024-02-09",
+      "Godzina": "18:34",
+      "Zdarzenie": "Wjazd"
+    },
+    {
+      "Marka": "Daewoo",
+      "Rodzaj": "osobowy",
+      "Miejsce": "Os03",
+      "NrRej": "SRC99RN",
+      "Data": "2024-02-09",
+      "Godzina": "18:34",
+      "Zdarzenie": "Wjazd"
+    },
+    {
+      "Marka": "Bugatti",
+      "Rodzaj": "osobowy",
+      "Miejsce": "Os02",
+      "NrRej": "WW971WY",
+      "Data": "2024-02-09",
+      "Godzina": "20:12",
+      "Zdarzenie": "Wyjazd"
+    }
+  ]
+}

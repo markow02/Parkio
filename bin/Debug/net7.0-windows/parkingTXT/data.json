@@ -1,0 +1,45 @@
+{
+  "Osobowe": [
+    "Os01",
+    "Os03"
+  ],
+  "Ciezarowe": [],
+  "Pojazdy": [
+    {
+      "Marka": "Abarth",
+      "Rodzaj": "osobowy",
+      "NrRej": "WW2180N",
+      "DataWjazdu": "2024-02-09",
+      "Miejsce": "Os01",
+      "GodzinaWjazdu": "18:32",
+      "CzasPostoju": "Brak danych",
+      "GodzinaWyjazdu": "Brak danych",
+      "Zaplata": "Brak danych",
+      "Status": "Zaparkowany"
+    },
+    {
+      "Marka": "Bugatti",
+      "Rodzaj": "osobowy",
+      "NrRej": "WW971WY",
+      "DataWjazdu": "2024-02-09",
+      "Miejsce": "Os02",
+      "GodzinaWjazdu": "18:34",
+      "CzasPostoju": "1h 38min",
+      "GodzinaWyjazdu": "20:12",
+      "Zaplata": "10,00 zł",
+      "Status": "Wyjechał"
+    },
+    {
+      "Marka": "Daewoo",
+      "Rodzaj": "osobowy",
+      "NrRej": "SRC99RN",
+      "DataWjazdu": "2024-02-09",
+      "Miejsce": "Os03",
+      "GodzinaWjazdu": "18:34",
+      "CzasPostoju": "Brak danych",
+      "GodzinaWyjazdu": "Brak danych",
+      "Zaplata": "Abonament",
+      "Status": "Zaparkowany"
+    }
+  ]
+}
